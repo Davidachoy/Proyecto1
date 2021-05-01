@@ -7,4 +7,5 @@ Me hace falta opcion de eliminar transportes, modificar viajes y elminar viajes 
 ![Capture](https://user-images.githubusercontent.com/83445439/116656794-85a83700-a94a-11eb-830a-c15728d27e09.PNG)
 30/04/2021
 Termine las tres gestiones de empresa,transporte y viajes. Ya valide los datos de fechas y tambien los datos de montos de asientos y cantidad de asientos
+
 ![borrar transporte](https://user-images.githubusercontent.com/83445439/116773079-74296280-aa10-11eb-8508-6e6b24ac3ebb.PNG)
