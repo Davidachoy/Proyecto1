@@ -9,6 +9,7 @@ Me hace falta opcion de eliminar transportes, modificar viajes y elminar viajes 
 Termine las tres gestiones de empresa,transporte y viajes. Ya valide los datos de fechas y tambien los datos de montos de asientos y cantidad de asientos
 
 ![borrar transporte](https://user-images.githubusercontent.com/83445439/116773079-74296280-aa10-11eb-8508-6e6b24ac3ebb.PNG)
+
 1/05/2021
 Trabaje en la opcion de consulta de viaje y logre crear la funcion para filtrar la informacion
 Tambien arregle algunos errores que me producia el codigo. No pude validad las fechas ni los montos
