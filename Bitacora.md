@@ -24,3 +24,11 @@ Tambien arregle algunos errores que me producia el codigo. No pude validad las f
 Termine la opcion de Reservacion de viaje valida, si hay campos disponibles y que el usuario reserve al menos un campo
 ![Capture hoy](https://user-images.githubusercontent.com/83445439/116833784-5b3bc100-ab78-11eb-819c-45947857f14b.PNG)
 
+Acabo de terminar la opcion de consultar historial de reservaciones con sus respectivos filtros.
+
+![Capture 2](https://user-images.githubusercontent.com/83445439/116836433-ae674100-ab83-11eb-8861-a6d9680fbea9.PNG)
+
+Ya se puede cancelar reservaciones y devuelve los asientos que se ocuparon y ya da las estadisticas por viaje
+
+![Capture 2](https://user-images.githubusercontent.com/83445439/116863782-0aea5080-abc4-11eb-9ae4-5a159b9b641f.PNG)
+
