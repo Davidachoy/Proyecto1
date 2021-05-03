@@ -13,3 +13,8 @@ Termine las tres gestiones de empresa,transporte y viajes. Ya valide los datos d
 1/05/2021
 Trabaje en la opcion de consulta de viaje y logre crear la funcion para filtrar la informacion
 Tambien arregle algunos errores que me producia el codigo. No pude validad las fechas ni los montos
+
+2/5/2021
+Termine la opcion de Reservacion de viaje valida si hay campos disponibles y que el usuario reserve al menos un campo
+![Capture hoy](https://user-images.githubusercontent.com/83445439/116833784-5b3bc100-ab78-11eb-819c-45947857f14b.PNG)
+
